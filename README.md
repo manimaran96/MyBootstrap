@@ -1,3 +1,8 @@
+Developer 
+
+Manimaran.K
+
+
 BOOTSTARP:
 
 	1.Bootstarp = HTML + CSS + JS
@@ -68,3 +73,15 @@ Extra:
                      The plugin toggles this behavior on and off (changes the value of CSS position from static to fixed), 
                      depending on scroll position.
 6.Carousel Plugin  => The Carousel plugin is a component for cycling through elements, like a carousel (slideshow)
+
+
+
+About me:
+
+Manimaran.K 
+BE-CSE
+9600789681
+manimaraninam1027@gmail.com
+https://www.facebook.com/manimaran.cse.1
+https://twitter.com/Manimaran_lpt 
+
