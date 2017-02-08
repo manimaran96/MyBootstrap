@@ -1,5 +1,7 @@
 # My Bootstrap
-	Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. Unlike many web frameworks, it concerns itself with front-end development only.
+	- Bootstrap is a free and open-source front-end web framework for designing websites and web applications. 
+	- It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. 
+	- Unlike many web frameworks, it concerns itself with front-end development only.
 	
 	1. Bootstarp = HTML + CSS + JS
 	2. It is Front end Framework
@@ -17,11 +19,11 @@
 ###Offline - local System:
 
 ><!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Bootstrap Example</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+><html lang="en">
+><head>
+>  <title>Bootstrap Example</title>
+ >   <meta charset="utf-8">
+ >  <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
         <script src="../bootstrap/js/jquery.min.js"></script>
         <script src="bootstrap/js/bootstrap.min.js"></script><style>
