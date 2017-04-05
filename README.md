@@ -16,9 +16,9 @@
 1. Basic full => 0_Basic/my_bootstrap_all.html
 
 
-###Offline - local System:
+###Work in Offline - local System:
 
-{::nomarkdown}
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,22 +27,21 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
         <script src="../bootstrap/js/jquery.min.js"></script>
-        <script src="bootstrap/js/bootstrap.min.js"></script><style>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
 
 body of content
 
 </body>
-
 </html>
-{:/}
+```
 
 	Note: Download bootstarp files 
 
 
-###Online - Global system:
-
+###Work in Online - Global system:
+```html
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -62,23 +61,17 @@ body of content
 body of content
 
 </body>
-
 </html>
-
+```
 
 ##About my files and their use:
 
 1. Tooltip Plugin  => The Tooltip plugin is small pop-up box that appears when the user moves the mouse pointer over an element.
 2. Modal Plugin    => The Modal plugin is a dialog box/popup window that is displayed on top of the current page.
-3. Popover Plugin  => The Popover plugin is similar to tooltips; it is a pop-up box that appears when the user clicks on an element. 
-                    The difference is that the popover can contain much more content.
+3. Popover Plugin  => The Popover plugin is similar to tooltips; it is a pop-up box that appears when the user clicks on an element. The difference is that the popover can contain much more content.
 
 4. Scrollspy Plugin => The Scrollspy plugin is used to automatically update links in a navigation list based on scroll position.
-5. Affix Plugin    => The Affix plugin allows an element to become affixed (locked) to an area on the page. This is often used with navigation 
-                     menus or social icon buttons, to make them "stick" at a specific area while scrolling up and down the page.
-    
-                     The plugin toggles this behavior on and off (changes the value of CSS position from static to fixed), 
-                     depending on scroll position.
+5. Affix Plugin    => The Affix plugin allows an element to become affixed (locked) to an area on the page. This is often used with navigation menus or social icon buttons, to make them "stick" at a specific area while scrolling up and down the page. The plugin toggles this behavior on and off (changes the value of CSS position from static to fixed), depending on scroll position.
 6. Carousel Plugin  => The Carousel plugin is a component for cycling through elements, like a carousel (slideshow)
 
 
