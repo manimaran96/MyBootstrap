@@ -1,22 +1,22 @@
 # My Bootstrap
 	- Bootstrap is a free and open-source front-end web framework for designing websites and web applications. 
-	- It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. 
+	- It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and <br>other interface components, as well as optional JavaScript extensions. 
 	- Unlike many web frameworks, it concerns itself with front-end development only.
 	
 	1. Bootstarp = HTML + CSS + JS
 	2. It is Front end Framework
 
-##Developer
->###*Manimaran.K*
+## Developer
+>### *Manimaran.K*
 
-##My Blog
+## My Blog
 >[https://manimaran96.wordpress.com](https://manimaran96.wordpress.com) 
 
-##How to use
+## How to use
 1. Basic full => 0_Basic/my_bootstrap_all.html
 
 
-###Work in Offline - local System:
+### Work in Offline - Access Bootstrap files from local System:
 
 ```html
 <!DOCTYPE html>
@@ -37,10 +37,10 @@ body of content
 </html>
 ```
 
-	Note: Download bootstarp files 
+	Note: If work in offline Download bootstarp files from getbootstrap.com
 
 
-###Work in Online - Global system:
+### Work in Online - Access Bootstrap files from Global system:
 ```html
 <html lang="en">
 <head>
@@ -64,7 +64,7 @@ body of content
 </html>
 ```
 
-##About my files and their use:
+## About my files and their use:
 
 1. Tooltip Plugin  => The Tooltip plugin is small pop-up box that appears when the user moves the mouse pointer over an element.
 2. Modal Plugin    => The Modal plugin is a dialog box/popup window that is displayed on top of the current page.
@@ -75,7 +75,7 @@ body of content
 6. Carousel Plugin  => The Carousel plugin is a component for cycling through elements, like a carousel (slideshow)
 
 
-##**About me**
+## **About me**
         Manimaran.K
         Computer Science Engineering
         manimaraninam1027@gmail.com
