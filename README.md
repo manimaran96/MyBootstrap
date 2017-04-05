@@ -25,8 +25,14 @@
   <title>Bootstrap Example</title>
     <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+   
+        <!-- Bootstrap CSS file -->
+	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+	
+	<!-- jQuery library -->
         <script src="../bootstrap/js/jquery.min.js"></script>
+	
+	<!-- javaScript library -->
         <script src="bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
